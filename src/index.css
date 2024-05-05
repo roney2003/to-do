@@ -1,0 +1,19 @@
+.box{
+  width: 50vh;
+  height: 40px;
+  border: 2px salmon;
+}
+
+button{
+  padding: 10px;
+  
+}
+
+.box1{
+  display: flex;
+  align-items: center;
+  
+  height: 40px;
+  width: 50vh;
+  background-color: greenyellow;
+}
